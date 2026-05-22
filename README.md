@@ -53,6 +53,23 @@ I'm **Sahil Sultane**, a passionate **Java Full Stack Developer** focused on bui
 
 </div>
 
+
+# ⚡ GitHub Activity Preview
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilsultane&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilsultane&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilsultane&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilsultane&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
 ---
 
 # 📈 Contribution Graph
