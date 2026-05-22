@@ -4,9 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E293B,50:0EA5E9,75:38BDF8,100:E0F2FE&text=Sahil%20Sultane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20Open%20Source%20Contributor%20•%20Problem%20Solver&descAlignY=58"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=🚀+Building+Modern+Web+Experiences;💻+Java+%7C+React+%7C+Spring+Boot;⚡+Crafting+Clean+and+Scalable+Apps;🌱+Always+Learning+New+Technologies" />
-
 <br><br>
 
 <img src="https://img.shields.io/github/followers/sahilsultane?style=for-the-badge&logo=github&labelColor=0F172A&color=38BDF8"/>
