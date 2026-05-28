@@ -82,6 +82,10 @@ I'm **Sahil Sultane**, a passionate **Java Full Stack Developer** focused on bui
 
 ---
 
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=sahilsultane&theme=synthwave&scale=log&speed=20s&radius=20&width=500&height=300&grace=7)
+
+---
+
 # 🏆 Achievements
 
 <div align="center">
